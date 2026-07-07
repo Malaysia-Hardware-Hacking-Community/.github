@@ -35,11 +35,11 @@ The categories are a lens, not a prerequisite. You don't need a CTF background t
 
 ## Policy Documents and How They Fit Together
 
-- [TERMS_OF_REFERENCE.md](https://github.com/[ORG]/org-handbook/blob/main/TERMS_OF_REFERENCE.md): organisational structure, role scope, operating procedures, and governance model.
-- [CODE_OF_CONDUCT.md](https://github.com/[ORG]/org-handbook/blob/main/CODE_OF_CONDUCT.md): behavioural rules, prohibited conduct, reporting, and enforcement.
-- [CODE_OF_ETHICS.md](https://github.com/[ORG]/org-handbook/blob/main/CODE_OF_ETHICS.md): our ethics baseline for lawful, responsible hardware research and disclosure.
-- [DISCLAIMER.md](https://github.com/[ORG]/org-handbook/blob/main/DISCLAIMER.md): legal and ethical scope, no authorisation, and individual responsibility boundaries.
-- [guides/ONBOARDING.md](https://github.com/[ORG]/org-handbook/blob/main/guides/ONBOARDING.md): onboarding steps for new members.
+- [TERMS_OF_REFERENCE.md](https://github.com/M0DUL0-Hardware-Hacking-Community/org-handbook/blob/main/TERMS_OF_REFERENCE.md): organisational structure, role scope, operating procedures, and governance model.
+- [CODE_OF_CONDUCT.md](https://github.com/M0DUL0-Hardware-Hacking-Community/org-handbook/blob/main/CODE_OF_CONDUCT.md): behavioural rules, prohibited conduct, reporting, and enforcement.
+- [CODE_OF_ETHICS.md](https://github.com/M0DUL0-Hardware-Hacking-Community/org-handbook/blob/main/CODE_OF_ETHICS.md): our ethics baseline for lawful, responsible hardware research and disclosure.
+- [DISCLAIMER.md](https://github.com/M0DUL0-Hardware-Hacking-Community/org-handbook/blob/main/DISCLAIMER.md): legal and ethical scope, no authorisation, and individual responsibility boundaries.
+- [guides/ONBOARDING.md](https://github.com/M0DUL0-Hardware-Hacking-Community/org-handbook/blob/main/guides/ONBOARDING.md): onboarding steps for new members.
 
 Read the Terms of Reference, Code of Conduct, Code of Ethics, and Disclaimer first before participating.
 
@@ -51,13 +51,13 @@ Once you're in, Discord's onboarding flow walks you through self-assigning your 
 
 ## New Member Start Here
 
-1. Read [TERMS_OF_REFERENCE.md](https://github.com/[ORG]/org-handbook/blob/main/TERMS_OF_REFERENCE.md) in full.
-2. Read [CODE_OF_CONDUCT.md](https://github.com/[ORG]/org-handbook/blob/main/CODE_OF_CONDUCT.md) in full.
-3. Read [CODE_OF_ETHICS.md](https://github.com/[ORG]/org-handbook/blob/main/CODE_OF_ETHICS.md) in full.
-4. Read [DISCLAIMER.md](https://github.com/[ORG]/org-handbook/blob/main/DISCLAIMER.md) in full.
-5. Complete onboarding in [guides/ONBOARDING.md](https://github.com/[ORG]/org-handbook/blob/main/guides/ONBOARDING.md).
-6. Use [TEMPLATES.md](https://github.com/[ORG]/org-handbook/blob/main/TEMPLATES.md) for your introduction format when requested.
-7. Join research sessions and activities in [guides/ENGAGEMENT.md](https://github.com/[ORG]/org-handbook/blob/main/guides/ENGAGEMENT.md).
+1. Read [TERMS_OF_REFERENCE.md](https://github.com/M0DUL0-Hardware-Hacking-Community/org-handbook/blob/main/TERMS_OF_REFERENCE.md) in full.
+2. Read [CODE_OF_CONDUCT.md](https://github.com/M0DUL0-Hardware-Hacking-Community/org-handbook/blob/main/CODE_OF_CONDUCT.md) in full.
+3. Read [CODE_OF_ETHICS.md](https://github.com/M0DUL0-Hardware-Hacking-Community/org-handbook/blob/main/CODE_OF_ETHICS.md) in full.
+4. Read [DISCLAIMER.md](https://github.com/M0DUL0-Hardware-Hacking-Community/org-handbook/blob/main/DISCLAIMER.md) in full.
+5. Complete onboarding in [guides/ONBOARDING.md](https://github.com/M0DUL0-Hardware-Hacking-Community/org-handbook/blob/main/guides/ONBOARDING.md).
+6. Use [TEMPLATES.md](https://github.com/M0DUL0-Hardware-Hacking-Community/org-handbook/blob/main/TEMPLATES.md) for your introduction format when requested.
+7. Join research sessions and activities in [guides/ENGAGEMENT.md](https://github.com/M0DUL0-Hardware-Hacking-Community/org-handbook/blob/main/guides/ENGAGEMENT.md).
 
 ## Community Practice Priorities
 
@@ -67,10 +67,9 @@ Once you're in, Discord's onboarding flow walks you through self-assigning your 
 - Reproducible writeups and source integrity.
 - Professional conduct and community safety.
 
-## Contributing and Reporting
+## Contributing
 
-- Contribution guide: [CONTRIBUTING.md](https://github.com/[ORG]/org-handbook/blob/main/CONTRIBUTING.md)
-- Community report template: [.github/ISSUE_TEMPLATE/community-report.md](https://github.com/[ORG]/org-handbook/blob/main/.github/ISSUE_TEMPLATE/community-report.md)
-- Pull request template: [.github/pull_request_template.md](https://github.com/[ORG]/org-handbook/blob/main/.github/pull_request_template.md)
+- Contribution guide: [CONTRIBUTING.md](https://github.com/M0DUL0-Hardware-Hacking-Community/org-handbook/blob/main/CONTRIBUTING.md)
+
 
 If you are unsure whether an activity is appropriate, do not proceed and ask a Volunteer or Core Founding Team member first.

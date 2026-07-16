@@ -2,11 +2,11 @@
 
 # MHHC
 
-MHHC is an independent hardware hacking community based in Malaysia, comprised of students, professionals, and hobbyists alike. As a team, we conduct hardware security research, develop proof-of-concepts (PoCs), and perform hardware modifications across various platforms.
+Malaysia Hardware Hacking Community (MHHC) is an independent hardware hacking community based in Malaysia, comprised of students, professionals, and hobbyists alike. As a team, we conduct hardware security research, develop proof-of-concepts (PoCs), and perform hardware modifications across various platforms.
 
 ## Mission
 
-MHHC exists to make hardware security accessible to anyone. Most resources are scattered, assume prior knowledge, or are buried in conference talks and research papers with no clear starting point. We bring them together: structured resources, materials, research papers, and hands-on projects that give people a real way into hardware hacking regardless of their background.
+Malaysia Hardware Hacking Community (MHHC) exists to make hardware security accessible to anyone. Most resources are scattered, assume prior knowledge, or are buried in conference talks and research papers with no clear starting point. We bring them together: structured resources, materials, research papers, and hands-on projects that give people a real way into hardware hacking regardless of their background.
 
 ## What MHHC Is
 
@@ -45,7 +45,7 @@ Read the Terms of Reference, Code of Conduct, Code of Ethics, and Disclaimer fir
 
 ## Joining MHHC
 
-MHHC's main platform is Discord. New members join through the invite on our [Linktree](https://linktr.ee/modulo).
+MHHC's main platform is Discord. New members join through the invite on our [Linktree](https://linktr.ee/mhhc.org).
 
 Once you're in, Discord's onboarding flow walks you through self-assigning your experience level and field of interest: CTFs, Researcher, Modifier, or any combination. Access to the community opens automatically once roles are set.
 

@@ -1,4 +1,4 @@
-![M0DUL0 Banner](m0dul0_banner.jpg)
+![MHHC Banner](mhhc_banner.jpg)
 
 # MHHC
 

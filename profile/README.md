@@ -45,7 +45,7 @@ Read the Terms of Reference, Code of Conduct, Code of Ethics, and Disclaimer fir
 
 ## Joining MHHC
 
-MHHC's main platform is Discord. New members join through the invite on our [Linktree](https://linktr.ee/malaysiahardwarehacking).
+MHHC's main platform is Discord. New members join through the invite on our [Linktree](https://linktr.ee/myhardwarehacking).
 
 Once you're in, Discord's onboarding flow walks you through self-assigning your experience level and field of interest: CTFs, Researcher, Modifier, or any combination. Access to the community opens automatically once roles are set.
 

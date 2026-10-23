@@ -1,4 +1,4 @@
-![MHHC Banner](mhhc_banner.jpg)
+![MHHC Banner](mhhc_banner.png)
 
 # MHHC
 
